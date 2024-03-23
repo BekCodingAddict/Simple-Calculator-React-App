@@ -1,3 +1,7 @@
+# Simple Calculator React App
+  - ## About App:
+    - A simple calculator React app is a basic application built using the React library that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
